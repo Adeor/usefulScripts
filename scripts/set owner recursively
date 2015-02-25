@@ -1,0 +1,7 @@
+#!/bin/sh
+
+directory = $1
+username = $2
+group = $3
+
+sudo chown -R $username:$group $directory

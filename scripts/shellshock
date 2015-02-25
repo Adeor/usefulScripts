@@ -1,0 +1,3 @@
+#!/bin/bash
+#To test your system, you can simply run this one liner below in terminal to find if you're vulnerable.
+curl https://shellshocker.net/shellshock_t... | bash
